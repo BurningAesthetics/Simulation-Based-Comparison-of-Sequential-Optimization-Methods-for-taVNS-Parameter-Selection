@@ -1,0 +1,2 @@
+Surface Family,Iteration Budget,N Paired Profiles,Endpoint,Friedman Statistic,Friedman P Value,Kendalls W,Permutation Range Statistic,Paired Permutation P Value
+symmetric,40,40,Noise-free normalized regret,1.8299999999999272,0.6084284611354911,0.015249999999999394,0.06531994434898147,0.7789110544472776
